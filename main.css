@@ -1,0 +1,29 @@
+body {
+    width: 550px;
+    margin: 0;
+    padding: 0 10px;
+    font-family: "Georgia", sans-serif;
+    font-size: 16px;
+    line-height: 20px;
+    background: rgb(224, 221, 213) repeat-y;
+  }
+
+h1{
+  line-height: normal;
+    text-align: center;
+    font-size: 36px;
+    color: rgb(42, 42, 42);
+  }
+  
+h2 {
+    line-height: normal;
+      text-align: center;
+      color: rgb(59, 59, 59);
+    }
+
+p {
+    text-align: center;
+}
+
+
+
